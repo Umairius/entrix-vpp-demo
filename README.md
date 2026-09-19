@@ -29,8 +29,8 @@ In short: it's the "can we sell this, and how sure are we" view of a BESS/solar/
 portfolio, with a mocked market-bid workflow bolted on.
 
 
-![Fleet grid view](image1.png)
-![Bid flow modal](image2.png)
+![Fleet grid view](image-1.png)
+![Bid flow modal](image-2.png)
 
 ## Stack
 
