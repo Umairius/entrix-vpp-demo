@@ -28,6 +28,10 @@ endpoints expose it: `/api/fleet` (current state + history) and `/api/feed` (rec
 In short: it's the "can we sell this, and how sure are we" view of a BESS/solar/flex-load
 portfolio, with a mocked market-bid workflow bolted on.
 
+
+![Fleet grid view](image1.png)
+![Bid flow modal](image2.png)
+
 ## Stack
 
 Python / Flask (backend), React (frontend), all data generated locally — no external APIs,
